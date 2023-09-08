@@ -1,4 +1,4 @@
-# Predicting the Customer Segment by using e-commerce data
+# Predicting the Customer Segments by using e-commerce data
 
 __Problem type: Multiclass Classification__
 
