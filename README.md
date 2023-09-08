@@ -2,7 +2,7 @@
 
 __Problem type: Multiclass Classification__
 
-Includes solution of [__BTK Akademi Datathon 2023__](https://www.kaggle.com/competitions/datathon2023). I attended the competition solo and ranked in top 10 by the jury's selection out of 359 competitors and 255 teams. 
+Includes solution and jury presentation of [__BTK Akademi Datathon 2023__](https://www.kaggle.com/competitions/datathon2023). I attended the competition solo and ranked in top 10 by the jury's selection out of 359 competitors and 255 teams. 
 
 
 ## Solution
